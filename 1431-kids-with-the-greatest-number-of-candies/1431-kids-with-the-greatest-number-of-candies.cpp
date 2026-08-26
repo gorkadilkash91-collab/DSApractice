@@ -1,0 +1,22 @@
+class Solution {
+public:
+    vector<bool> kidsWithCandies(vector<int>& candies, int extraCandies) {
+        // finding maxm from each index
+        int max = candies[0];
+        for (int i = 0; i < candies.size(); i++) {
+            if (candies[i] > max) {
+                max = candies[i];
+            }
+        }
+        //checking on each kid
+        vector<bool> ans;
+        for (int i = 0; i < candies.size(); i++) {
+            if (candies[i] + extraCandies >= max) {
+                ans.push_back(true);
+            } else {
+                ans.push_back(false);
+            }
+        }
+        return ans;
+    }
+};
