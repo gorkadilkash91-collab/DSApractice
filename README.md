@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0268-missing-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0011-container-with-most-water) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
