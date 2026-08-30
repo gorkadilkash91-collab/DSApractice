@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0011-container-with-most-water) |
+| [0046-permutations](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0169-majority-element) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0078-subsets) |
 ## String
 |  |
