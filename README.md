@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0268-missing-number) |
 | [1748-sum-of-unique-elements](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1748-sum-of-unique-elements) |
@@ -85,5 +86,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0078-subsets) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
