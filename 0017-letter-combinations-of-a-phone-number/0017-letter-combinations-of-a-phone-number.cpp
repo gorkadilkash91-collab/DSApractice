@@ -8,7 +8,7 @@ class Solution {
             return;
 
         }
-        int numbers = digit[index] - '0';  //digit[index] - humko character dega eslia humne use kia usko -0 se taki humko uska int equivalent miljaye wrna 2 nhi milega 
+        int numbers = digit[index] - '0';  //digit[index] - humko character dega eslia humne use kia usko -0 se taki humko uska int equivalent miljaye wrna eg -2 nhi milega 
         string value = mapping[numbers];
         // mapping krne ke lia fhir loop lga dia ekh bar a , b ,c lelo 
 
@@ -17,7 +17,7 @@ class Solution {
             solve( digit, output , index +1, ans , mapping);
             output.pop_back();
 
-            // bapus jaane ke lia yeh use kia 
+            // bapus jaane ke lia yeh use kia wrna input mai woh bhi include hojaiga yeh wese backtraking ka part hai 
         }
     }
 public:
