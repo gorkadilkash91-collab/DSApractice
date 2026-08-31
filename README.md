@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
