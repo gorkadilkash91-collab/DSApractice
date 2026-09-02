@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0066-plus-one) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0268-missing-number) |
