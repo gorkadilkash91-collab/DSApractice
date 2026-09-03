@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0989-add-to-array-form-of-integer) |
 | [1089-duplicate-zeros](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1089-duplicate-zeros) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1748-sum-of-unique-elements](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1748-sum-of-unique-elements) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0989-add-to-array-form-of-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
 | ------- |
