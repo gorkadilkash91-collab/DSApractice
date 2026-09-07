@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0989-add-to-array-form-of-integer) |
+| [1051-height-checker](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
@@ -125,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0050-powx-n) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
