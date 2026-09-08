@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3870-count-commas-in-range](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/3870-count-commas-in-range) |
 ## Sorting
 |  |
 | ------- |
