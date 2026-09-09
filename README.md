@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1534-count-good-triplets](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1534-count-good-triplets) |
 | [1748-sum-of-unique-elements](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1748-sum-of-unique-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/2733-neither-minimum-nor-maximum) |
 | [2951-find-the-peaks](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/2951-find-the-peaks) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1534-count-good-triplets) |
 | [2951-find-the-peaks](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/2951-find-the-peaks) |
 ## Greedy
 |  |
