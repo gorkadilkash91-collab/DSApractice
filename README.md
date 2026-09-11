@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0088-merge-sorted-array) |
@@ -150,8 +151,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
