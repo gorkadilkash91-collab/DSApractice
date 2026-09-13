@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0169-majority-element) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
