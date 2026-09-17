@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0268-missing-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
