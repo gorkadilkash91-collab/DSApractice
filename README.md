@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1859-sorting-the-sentence](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1859-sorting-the-sentence) |
 | [2733-neither-minimum-nor-maximum](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/2733-neither-minimum-nor-maximum) |
 ## Two Pointers
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0409-longest-palindrome](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0409-longest-palindrome) |
 | [1436-destination-city](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1436-destination-city) |
+| [1859-sorting-the-sentence](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1859-sorting-the-sentence) |
 ## Recursion
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1051-height-checker) |
+| [1859-sorting-the-sentence](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1859-sorting-the-sentence) |
 ## Matrix
 |  |
 | ------- |
