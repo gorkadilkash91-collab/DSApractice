@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0066-plus-one) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0217-contains-duplicate) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0217-contains-duplicate) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0409-longest-palindrome) |
 | [1436-destination-city](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1436-destination-city) |
