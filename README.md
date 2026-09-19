@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1436-destination-city](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1436-destination-city) |
 | [1748-sum-of-unique-elements](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0409-longest-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1108-defanging-an-ip-address) |
 | [1436-destination-city](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1436-destination-city) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1859-sorting-the-sentence) |
 ## Recursion
 |  |
