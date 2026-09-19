@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0242-valid-anagram](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0409-longest-palindrome) |
 | [1436-destination-city](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1436-destination-city) |
 | [1859-sorting-the-sentence](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1859-sorting-the-sentence) |
