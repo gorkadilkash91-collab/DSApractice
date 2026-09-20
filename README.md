@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1436-destination-city) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1859-sorting-the-sentence) |
+| [3498-reverse-degree-of-a-string](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0059-spiral-matrix-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
