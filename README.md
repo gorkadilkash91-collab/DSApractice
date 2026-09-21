@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0242-valid-anagram) |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0070-climbing-stairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
