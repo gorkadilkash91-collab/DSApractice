@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0941-valid-mountain-array) |
+| [0976-largest-perimeter-triangle](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1051-height-checker) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3870-count-commas-in-range](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/3870-count-commas-in-range) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0409-longest-palindrome) |
+| [0976-largest-perimeter-triangle](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0976-largest-perimeter-triangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -217,4 +221,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0014-longest-common-prefix) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
