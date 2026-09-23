@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1859-sorting-the-sentence](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1859-sorting-the-sentence) |
 | [2733-neither-minimum-nor-maximum](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/2733-neither-minimum-nor-maximum) |
+| [2785-sort-vowels-in-a-string](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/2785-sort-vowels-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1436-destination-city) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1859-sorting-the-sentence) |
+| [2785-sort-vowels-in-a-string](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/2785-sort-vowels-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
 |  |
