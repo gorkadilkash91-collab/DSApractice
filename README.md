@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0014-longest-common-prefix) |
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
