@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0415-add-strings) |
+| [0520-detect-capital](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1108-defanging-an-ip-address) |
 | [1436-destination-city](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1436-destination-city) |
