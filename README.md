@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1436-destination-city) |
 | [1534-count-good-triplets](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1534-count-good-triplets) |
+| [1672-richest-customer-wealth](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1748-sum-of-unique-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/2733-neither-minimum-nor-maximum) |
 | [2951-find-the-peaks](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/2951-find-the-peaks) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0073-set-matrix-zeroes) |
+| [1672-richest-customer-wealth](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
