@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0977-squares-of-a-sorted-array) |
@@ -293,5 +294,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
