@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0905-sort-array-by-parity) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0229-majority-element-ii) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
