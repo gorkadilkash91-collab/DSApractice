@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0922-sort-array-by-parity-ii) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Counting Sort
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Database
