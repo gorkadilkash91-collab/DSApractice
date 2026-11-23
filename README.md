@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -331,4 +333,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0142-linked-list-cycle-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/gorkadilkash91-collab/DSApractice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
